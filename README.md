@@ -1,10 +1,11 @@
 # DiceDash-Race-to-100
 
-Live Demo: Play Now!
+Live Demo: https://dicedash-raceto100.netlify.app/
 
 DiceDash is a fun and fast-paced two-player dice game built with JavaScript. The goal is simple — be the first to reach 100 points. But beware: roll a 1, and you’ll lose your turn and your current score!
 
 🚀 How to Play
+
 Roll the Dice: On your turn, click the Roll Dice button.
 
 Scoring:
@@ -17,6 +18,8 @@ Hold: You can choose to "Hold" at any time to add your current score to your tot
 
 Win the Game: The first player to reach 100 total points wins the game!
 
+
+
 🎯 Features
 🎮 2-player real-time gameplay
 
@@ -27,6 +30,8 @@ Win the Game: The first player to reach 100 total points wins the game!
 🧠 Strategic gameplay using “Hold” and “Roll” options
 
 📱 Responsive and clean UI design
+
+
 
 🛠️ Built With
 HTML5
@@ -40,8 +45,11 @@ JavaScript (ES6)
 To run this project locally:
 
 git clone https://github.com/your-username/DiceDash-Race-to-100.git
+
 cd DiceDash-Race-to-100
+
 open index.html
+
 Or simply play it online!
 
 🙌 Acknowledgements
